@@ -1,2 +1,2 @@
 This is TunOn backup repo.
-TuneOn is a Full Stack Web project created using Spring Boot, Thymeleaf and MySQL.
+This ia a is a Full Stack Web project created using HTML/CS, Spring Boot, Thymeleaf and MySQL.
